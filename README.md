@@ -10,9 +10,9 @@ together with galaxy catalogs from the hydrodynamical cosmological simulation EA
 
 We have used a grid of 25 x 25 x 25 points with a range of log(M*/Msol)
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\log(M_\ast{} / \Msun) \in{}[ 7.0,\,{}12.5]" title="range" />
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\log({\rm SFR} / \Msun \yr^{-1}) \in{}[ -5.5,\,{} 2.5]" title="range" />
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\log Z \in{} [-8,-0.7]" title="range" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\log(M_\ast{} / \Msun) \in{}[ 7.0,\,{}12.5]" title="\log(M_\ast{} / \Msun) \in{}[ 7.0,\,{}12.5]" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\log({\rm SFR} / \Msun \yr^{-1}) \in{}[ -5.5,\,{} 2.5]" title="\log({\rm SFR} / \Msun \yr^{-1}) \in{}[ -5.5,\,{} 2.5]" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\log Z \in{} [-8,-0.7]" title="\log Z \in{} [-8,-0.7]" />
 
 to compute the elements of the host galaxy probability p(M ∗ , SFR, Z)
 in Eq. (2).
