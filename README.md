@@ -11,6 +11,7 @@ together with galaxy catalogs from the hydrodynamical cosmological simulation EA
 We have used a grid of 25 x 25 x 25 points with a range of log(M*/Msol)
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\log(M_\ast{} / \Msun) \in{}[ 7.0,\,{}12.5]" title="\log(M_\ast{} / \Msun) \in{}[ 7.0,\,{}12.5]" />
+%5Clog%28M_%5Cast%7B%7D%20%2F%20%5CMsun%29%20%5Cin%7B%7D%5B%207.0%2C%5C%2C%7B%7D12.5%5D
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\log({\rm SFR} / \Msun \yr^{-1}) \in{}[ -5.5,\,{} 2.5]" title="\log({\rm SFR} / \Msun \yr^{-1}) \in{}[ -5.5,\,{} 2.5]" />
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\log Z \in{} [-8,-0.7]" title="\log Z \in{} [-8,-0.7]" />
 
