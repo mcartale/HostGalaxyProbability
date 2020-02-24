@@ -5,3 +5,4 @@ low-latency electromagnetic follow-up of gravitational wave events", from Artale
 
 You will find the host galaxy probabilities at redshifts $z=0.1, 1, 2,$ and 6 as a function of the stellar mass, SFR, B- and Ks- bands.
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
