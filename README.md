@@ -1,5 +1,7 @@
 # HostGalaxyProbability
 
-In this repository you will find the host galaxy probabilities as a function of the stellar mass, SFR, B- and Ks- bands.
+In this repository you will find the results from the work entitled "An astrophysically motivated ranking criterion for
+low-latency electromagnetic follow-up of gravitational wave events", from Artale M. C., Bouffanais Y., Mapelli M., Giacobbo N., Sabha N. B., Santoliquido F., Pasquato M. & Spera M.
 
-The folders contain the tables for BNS, BHNS, and BBH at redshifts z=0.1, 1, 2, and 6
+You will find the host galaxy probabilities at redshifts $z=0.1, 1, 2,$ and 6 as a function of the stellar mass, SFR, B- and Ks- bands.
+
