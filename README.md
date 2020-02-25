@@ -25,4 +25,11 @@ where (<a href="https://www.codecogs.com/eqnedit.php?latex=$M_\ast{}^{k}$,$\text
 Information about the tables
 ----------------------------
 
+In the repository there are three folders, one for each type of merging merging compact object binary studied: BBH,
+BHNS, and BNS.
 
+* The host galaxy probability using the B-band (): 1DHostGalaxyProbability_B_Band_AAAA_zBBB.dat
+* The host galaxy probability using the Ks-band (): 1DHostGalaxyProbability_Ks_Band_AAAA_zBBB.dat
+* The host galaxy probability using the stellar mass (): 1DHostGalaxyProbability_Ms_AAAA_zBBB.dat
+* The host galaxy probability using the stellar mass and SFR (): 2DHostGalaxyProbability_Ms_SFR_AAAA_zBBB.dat
+where AAAA = BBH, BHNS, or BNS; BBB= 0p1, 1, 2, or 6 (corresponding to the redshift)
