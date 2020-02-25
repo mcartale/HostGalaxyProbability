@@ -20,3 +20,8 @@ In the simplistic case where all possible galaxies have the same sky localisatio
 <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbb{P}(\text{galaxy&space;}k)&space;=&space;\frac{\text{p}(M_\ast{}^{k},\text{SFR}^{k}&space;)}{\sum_{i=1}^{N_{G}}&space;\text{p}(M_\ast{}^{i},\text{SFR}^{i}&space;)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbb{P}(\text{galaxy&space;}k)&space;=&space;\frac{\text{p}(M_\ast{}^{k},\text{SFR}^{k}&space;)}{\sum_{i=1}^{N_{G}}&space;\text{p}(M_\ast{}^{i},\text{SFR}^{i}&space;)}" title="\mathbb{P}(\text{galaxy }k) = \frac{\text{p}(M_\ast{}^{k},\text{SFR}^{k} )}{\sum_{i=1}^{N_{G}} \text{p}(M_\ast{}^{i},\text{SFR}^{i} )}" /></a>
 
 where (<a href="https://www.codecogs.com/eqnedit.php?latex=$M_\ast{}^{k}$,$\text{SFR}^{k}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$M_\ast{}^{k}$,$\text{SFR}^{k}$" title="$M_\ast{}^{k}$,$\text{SFR}^{k}$" /></a>) are the stellar mass and SFR of the *k*th galaxy of our targeted search sample and <a href="https://www.codecogs.com/eqnedit.php?latex=\text{p}(M_\ast{}^{k},\text{SFR}^{k}&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\text{p}(M_\ast{}^{k},\text{SFR}^{k}&space;)" title="\text{p}(M_\ast{}^{k},\text{SFR}^{k} )" /></a> is obtained from the tables.
+
+
+Information about the tables
+============================
+
