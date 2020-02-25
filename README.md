@@ -34,5 +34,5 @@ BHNS, and BNS.
 * The host galaxy probability using the stellar mass and SFR (<a href="https://www.codecogs.com/eqnedit.php?latex=$p(M_{\ast{}},{\rm&space;SFR})$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$p(M_{\ast{}},{\rm&space;SFR})$" title="$p(M_{\ast{}},{\rm SFR})$" /></a>): 2DHostGalaxyProbability_Ms_SFR_AAAA_zBBB.dat
 
 where
-AAAA = BBH, BHNS, or BNS
+AAAA = BBH, BHNS, and BNS
 BBB= 0p1, 1, 2, or 6 (corresponds to the redshift)
