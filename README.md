@@ -23,5 +23,6 @@ where (<a href="https://www.codecogs.com/eqnedit.php?latex=$M_\ast{}^{k}$,$\text
 
 
 Information about the tables
-============================
+----------------------------
+
 
