@@ -35,4 +35,5 @@ BHNS, and BNS.
 
 where
 AAAA = BBH, BHNS, and BNS
+
 BBB= 0p1, 1, 2, or 6 (corresponds to the redshift)
