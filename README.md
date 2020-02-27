@@ -5,7 +5,7 @@ low-latency electromagnetic follow-up of gravitational wave events", from Artale
 
 You will find the host galaxy probabilities at redshifts *z = 0.1, 1, 2,* and *6* as a function of the stellar mass, SFR, B- and Ks- bands.
 For this we combine the catalogs from the population synthesis model MOBSE 
-[(Giacobbo et al. 2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2959G/abstract)
+[(Giacobbo et al. 2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4391M/abstract)
 together with galaxy catalogs from the hydrodynamical cosmological simulation EAGLE [(Schaye et al. 2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..521S/abstract) to derive the properties of the host galaxies of binary neutron stars (BNS), black hole-neutron star (BHNS), and binary black hole (BBH) mergers.
 
 We have used a grid of 25 x 25 x 25 points with a range of <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\log(M_\ast{}&space;/&space;M_{\odot})&space;\in{}[&space;7.0,\,{}12.5]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\log(M_\ast{}&space;/&space;M_{\odot})&space;\in{}[&space;7.0,\,{}12.5]" title="\log(M_\ast{} / M_{\odot}) \in{}[ 7.0,\,{}12.5]" /></a>,
@@ -37,3 +37,14 @@ where
 AAAA = BBH, BHNS, and BNS
 
 BBB= 0p1, 1, 2, or 6 (corresponds to the redshift)
+
+
+***********************************
+CREDITS AND CITATIONS:
+----------------------------
+You are very welcome to use our tables for your publications, talks, future works. If you intend to do so, the only thing we ask you is to give us the proper credits (e.g. in the acknowledgements) and to cite the following papers:
+* Giacobbo & Mapelli 2018: https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.4391M/abstract
+* Artale et al. 2019: https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.1675A/abstract
+* Artale et al. 2020a: https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.3419A/abstract
+* Artale et al. 2020b: https://arxiv.org/abs/2002.11214
+***********************************
